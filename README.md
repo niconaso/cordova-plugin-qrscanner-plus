@@ -10,10 +10,10 @@ Install the plugin using the CLI, for instance with
 
 * Cordova:
 
-	cordova plugin add https://github.com/niconaso/CordovaClipboard
+	cordova plugin add cordova-plugin-clipboard-x
 * Ionic
 
-	ionic plugin add https://github.com/niconaso/CordovaClipboard --save
+	ionic plugin add cordova-plugin-clipboard-x --save
 
 
 The plugin creates the object `cordova.plugins.clipboard` with the methods `copy(text, onSuccess, onError)` and `paste(onSuccess, onError)`.
