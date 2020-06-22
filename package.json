@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-qrscanner-x",
+  "name": "cordova-plugin-qrscanner-plus",
   "version": "3.1.0",
   "description": "Fast, energy-efficient, highly-configurable QR code scanner.",
   "cordova": {
-    "id": "cordova-plugin-qrscanner-x",
+    "id": "cordova-plugin-qrscanner-plus",
     "platforms": [
       "ios",
       "android"
@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/niconaso/cordova-plugin-qrscanner-x"
+    "url": "https://github.com/niconaso/cordova-plugin-qrscanner-plus"
   },
   "keywords": [
     "cordova",
@@ -50,9 +50,9 @@
   "author": "Jason Dreyzehner",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/niconaso/cordova-plugin-qrscanner-x/issues"
+    "url": "https://github.com/niconaso/cordova-plugin-qrscanner-plus/issues"
   },
-  "homepage": "https://github.com/niconaso/cordova-plugin-qrscanner-x",
+  "homepage": "https://github.com/niconaso/cordova-plugin-qrscanner-plus",
   "main": "dist/cordova-plugin-qrscanner-lib.min.js",
   "dependencies": {
     "qrcode-reader": "^1.0.4",
